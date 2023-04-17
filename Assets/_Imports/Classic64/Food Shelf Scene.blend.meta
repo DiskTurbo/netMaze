@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 8a4711b649eca5a48ac1a3a7f58d42a4
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_OffWhite
+    second: {fileID: 2100000, guid: c7a6114e65b15ad4ab3e946d195a2c9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commerical_Shelf
+    second: {fileID: 2100000, guid: f14196069dc8952429417008113abde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commerical_Shelf_Back
+    second: {fileID: 2100000, guid: 1e0de2fc050365d4f869885d5018ffeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commerical_Shelf_Bottom
+    second: {fileID: 2100000, guid: b0502289293a7284e8d22e0742f1be8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Baking_Sugar
+    second: {fileID: 2100000, guid: c5b81d218c77f36429c62be648e3e4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_1
+    second: {fileID: 2100000, guid: de8e11aaec95acf49b1fed21ad913951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_2
+    second: {fileID: 2100000, guid: b7e47a62a90bff24e9c085fd44cf9af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_3
+    second: {fileID: 2100000, guid: 41301ea1b49763a43bb84c059eb25763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_5
+    second: {fileID: 2100000, guid: 7153db97dcb30564989cec56dd299853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_6
+    second: {fileID: 2100000, guid: 4b6d23ee726c69b42852f910a0f93ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_7
+    second: {fileID: 2100000, guid: a10ea3d55ecd9f744b4d9b55d6dde12d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Canned_Soup_8
+    second: {fileID: 2100000, guid: 2937650f2eefa0341a2404fb6825138f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_1
+    second: {fileID: 2100000, guid: 846ffc68632f6c343ab99cd45acb5b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_2
+    second: {fileID: 2100000, guid: 915d709fa35f8224b93fe41d801fc114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_3
+    second: {fileID: 2100000, guid: 4798d62ccf64f0248804524b2173c2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_4
+    second: {fileID: 2100000, guid: 6effab5d66facc749a0fe71916e25d4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_5
+    second: {fileID: 2100000, guid: 9f8db31e7e611dd428f33a16bea0f48a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_6
+    second: {fileID: 2100000, guid: 924e1c07d2a40f5489acff11e6560c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_7
+    second: {fileID: 2100000, guid: 8aa8b6da020652c46887d6051da91cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Cereal_8
+    second: {fileID: 2100000, guid: 296e401d57900744484093c310090c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Pet
+    second: {fileID: 2100000, guid: 79fa75b6bf700bd4fb883fb30c2a5061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food_Pet_2
+    second: {fileID: 2100000, guid: a90a0adba4781f742a47284ffe42061d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: food_baking_flour
+    second: {fileID: 2100000, guid: 2d7a838ac05b8d545883fff77558ac0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: food_snack_chips_1
+    second: {fileID: 2100000, guid: 2947676e377cd8d4a9c2e461b8a4bec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: food_snack_chips_2
+    second: {fileID: 2100000, guid: a9c262aaee2413b4ea6589e09a605031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: food_snack_chips_3
+    second: {fileID: 2100000, guid: 82b93b213cae5be419af83f2d94382de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: food_snack_chips_4
+    second: {fileID: 2100000, guid: f3a06a800edf25347a747c69c7d1f37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: products_papertowels_pack
+    second: {fileID: 2100000, guid: 0421b4e68335235489607c423947c4a2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

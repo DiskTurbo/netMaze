@@ -1,0 +1,218 @@
+﻿{
+    "mapID": "Funny City",
+    "version": "0.1.0",
+    "positions": [
+        {
+            "x": 121.0,
+            "y": 2.0,
+            "z": -51.0
+        },
+        {
+            "x": 120.0,
+            "y": 2.0,
+            "z": -51.0
+        },
+        {
+            "x": 120.0,
+            "y": 2.0,
+            "z": -50.0
+        },
+        {
+            "x": 119.0,
+            "y": 2.0,
+            "z": -51.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -51.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -50.0
+        },
+        {
+            "x": 119.0,
+            "y": 2.0,
+            "z": -50.0
+        },
+        {
+            "x": 120.0,
+            "y": 3.0,
+            "z": -51.0
+        },
+        {
+            "x": 119.0,
+            "y": 3.0,
+            "z": -51.0
+        },
+        {
+            "x": 121.0,
+            "y": 3.0,
+            "z": -51.0
+        },
+        {
+            "x": 121.0,
+            "y": 2.0,
+            "z": -50.0
+        },
+        {
+            "x": 121.0,
+            "y": 3.0,
+            "z": -50.0
+        },
+        {
+            "x": 119.0,
+            "y": 3.0,
+            "z": -50.0
+        },
+        {
+            "x": 120.0,
+            "y": 3.0,
+            "z": -50.0
+        },
+        {
+            "x": 118.0,
+            "y": 3.0,
+            "z": -50.0
+        },
+        {
+            "x": 119.0,
+            "y": 2.0,
+            "z": -53.0
+        },
+        {
+            "x": 119.0,
+            "y": 4.0,
+            "z": -51.0
+        },
+        {
+            "x": 119.0,
+            "y": 4.0,
+            "z": -50.0
+        },
+        {
+            "x": 120.0,
+            "y": 4.0,
+            "z": -51.0
+        },
+        {
+            "x": 77.0,
+            "y": 2.0,
+            "z": -77.0
+        },
+        {
+            "x": 140.0,
+            "y": 3.0,
+            "z": -66.0
+        },
+        {
+            "x": 135.0,
+            "y": 2.0,
+            "z": -61.0
+        },
+        {
+            "x": 135.0,
+            "y": 2.0,
+            "z": -60.0
+        },
+        {
+            "x": 137.0,
+            "y": 2.0,
+            "z": -61.0
+        },
+        {
+            "x": 136.0,
+            "y": 2.0,
+            "z": -61.0
+        },
+        {
+            "x": 136.0,
+            "y": 2.0,
+            "z": -60.0
+        },
+        {
+            "x": 137.0,
+            "y": 2.0,
+            "z": -60.0
+        },
+        {
+            "x": 138.0,
+            "y": 2.0,
+            "z": -61.0
+        },
+        {
+            "x": 139.0,
+            "y": 2.0,
+            "z": -61.0
+        },
+        {
+            "x": 138.0,
+            "y": 2.0,
+            "z": -60.0
+        },
+        {
+            "x": 139.0,
+            "y": 3.0,
+            "z": -60.0
+        },
+        {
+            "x": 124.0,
+            "y": 2.0,
+            "z": -49.0
+        },
+        {
+            "x": 123.0,
+            "y": 2.0,
+            "z": -65.0
+        },
+        {
+            "x": 125.0,
+            "y": 2.0,
+            "z": -49.0
+        },
+        {
+            "x": 125.0,
+            "y": 2.0,
+            "z": -48.0
+        }
+    ],
+    "blockTypes": [
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube",
+        "AFuckingCube"
+    ]
+}

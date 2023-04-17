@@ -1,0 +1,80 @@
+﻿{
+    "mapID": "Funny City",
+    "version": "0.1.0",
+    "positions": [
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -15.0
+        },
+        {
+            "x": 116.0,
+            "y": 2.0,
+            "z": -14.0
+        },
+        {
+            "x": 117.0,
+            "y": 2.0,
+            "z": -14.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -14.0
+        },
+        {
+            "x": 116.0,
+            "y": 2.0,
+            "z": -13.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -13.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -12.0
+        },
+        {
+            "x": 116.0,
+            "y": 2.0,
+            "z": -12.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -11.0
+        },
+        {
+            "x": 118.0,
+            "y": 2.0,
+            "z": -10.0
+        },
+        {
+            "x": 116.0,
+            "y": 2.0,
+            "z": -9.0
+        },
+        {
+            "x": 116.0,
+            "y": 2.0,
+            "z": -8.0
+        }
+    ],
+    "blockTypes": [
+        "AFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube",
+        "AnotherFuckingCube"
+    ]
+}
