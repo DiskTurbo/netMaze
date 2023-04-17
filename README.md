@@ -9,6 +9,8 @@ https://netware.itch.io/netmaze
 
 # Installation:
  Just download the repo and open using Unity Hub. We recommend using Unity's latest 2021 LTS build, as we used 2021.3.13f1 during the development of netMaze.
+ 
+ You're going to need your own Photon project ID (get [here](https://www.photonengine.com/)), and optionally your own Unity Gaming Services project ID.
 
 # Documentation:
  Coming soon...
